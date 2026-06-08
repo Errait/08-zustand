@@ -4,10 +4,10 @@ import NoteForm from '@/components/NoteForm/NoteForm';
 
 export const metadata: Metadata = {
   title: 'Create Note | NoteHub',
-  description: 'Creeate your personaly note',
+  description: 'Create your personal note',
   openGraph: {
     title: `Create Note | NoteHub`,
-    description: `Creeate your personaly note`,
+    description: `Create your personal note`,
     url: `https://notehub.com/notes/action/create`,
     type: 'website',
     images: [
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: `Create Note | NoteHub`,
-    description: `Creeate your personaly note`,
+    description: `Create your personal note`,
     images: ['https://ac.goit.global/fullstack/react/notehub-og-meta.jpg'],
   },
 };
